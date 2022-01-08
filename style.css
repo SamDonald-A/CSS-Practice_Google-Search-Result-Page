@@ -1,0 +1,262 @@
+
+table, tr, th, td {
+    border: solid;
+    border-collapse: collapse;
+}
+table {
+    margin-left: 37%;
+}
+.tab {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+.image1 {
+   width: 253%;
+} 
+.image200 {
+    width: 49%;
+    padding-left: 5px;
+}
+.image400 {
+    width: 49%;
+    padding-left: 5px;
+
+}
+.left4 {
+    display: flex;
+}
+.container {
+    display: flex;
+}
+.row2 {
+    width: 60%;
+    margin-left: 7%;
+    display: flex;
+}
+.row3 {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin-top: 1px;
+    margin-bottom: 0%;
+    margin-left: 7%;
+}
+p {
+    margin-top: 0%;
+}
+
+.leftcolumn {
+   display: inline;
+}
+
+.rightcolumn {
+float: right;
+border: 1px solid black;
+margin-right: 10%;
+}
+
+.righth1 {
+    
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: brown;
+    margin-bottom: 0px;
+}
+.num1 {
+    display: flex;
+    flex-direction: row;
+}
+.one {
+    width: 46px;
+    border-radius: 50px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin: 5%;
+    padding-top: 8px;
+}
+.onetext {
+    margin: 5%;
+}
+.glogo {
+   display: flex;
+}
+.logo {
+    margin-top: 2.5%;
+    margin-left: 2%;
+    height: 50px;
+    width: 140px;
+}
+.search{
+    margin-left: 45px;
+    margin-top: 35px;
+    width: 50%;
+    height: 50px;
+    border: 0px;
+    border-radius: 50px;
+    box-shadow: 0 0px 15px -9px;
+}
+.sear {
+    height: 25px;
+    width: 25px;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 94%;
+}
+.sear1 {
+    float: right;
+    height: 25px;
+    width: 25px;
+    margin-left: 380px;
+    margin-top: 50px;
+}
+.sear2 {
+    float: right;
+    height: 25px;
+    width: 25px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.sear2 {
+    float: right;
+    height: 25px;
+    width: 25px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.menuitems {
+    font-size: 17px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right: 650px;
+}
+
+.hrone {
+    border: none;
+    height: 1px;
+    background: #dddddd;
+}
+.last {
+    margin-left: 50px;
+}
+.resulttime {
+    margin-left: 220px;
+    opacity: 50%;
+}
+.MyNameonsearch {
+    margin-left: 240px;
+    font-size: 20px;
+    position: relative;
+    bottom: -92px;
+}
+.rightcolumn2 {
+    float: right;
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+    margin-right: 10%;
+    }
+
+.MyNa {
+    margin-left: 30px;
+    position:absolute;
+    margin-top: -120px;
+    }
+.boxcont{
+    padding: 10px;
+   line-height: 25px;
+   font-size: 14px;
+}
+.boxcont1{
+   line-height: 15px;
+   font-size: 14px;
+}
+
+.bold {
+    font-weight: bold;
+    display: inline;
+    padding-left: 10px;
+    font-size: 14px;
+}
+.moveup {
+    position: relative;
+    margin-top: -15px;
+}
+.GoogleContainer {
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Questrial', sans-serif;
+}
+.websi {
+    position: relative;
+    margin-left: 60px;
+    margin-top: -25px;
+    color: rgb(26,13,171);
+}
+.ResultContainer {
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Questrial', sans-serif;
+    line-height: 23px;
+}
+.result1 {
+    margin-left: 220px;
+    font-size: 20px;
+    color: rgb(26,13,171);
+}
+.detailres {
+    margin-left: 220px;
+    font-size: 14px;
+    position: relative;
+    margin-top: -15px;
+    opacity: 70%;
+}
+.result2 {
+    margin-left: 270px;
+    font-size: 20px;
+    color: rgb(26,13,171);
+}
+.sub1 {
+    margin-left: 270px;
+    font-size: 14px;
+    position: relative;
+    margin-top: -15px;
+    opacity: 70%;
+}
+.sub2 {
+    margin-left: 270px;
+    font-size: 14px;
+    position: relative;
+    margin-top: -15px;
+    opacity: 70%;
+}
+.sub3 {
+    margin-left: 270px;
+    font-size: 14px;
+    position: relative;
+    margin-top: -15px;
+    opacity: 70%;
+}
+.sub4 {
+    margin-left: 270px;
+    font-size: 14px;
+    position: relative;
+    margin-top: -15px;
+    color: rgb(26,13,171);
+}
+.ndres {
+    position: relative;
+    margin-top: -10px;
+}
+.lastword {
+    margin-left: 325px;
+    font-size: 14px;
+    position: relative;
+    margin-top: -83px;
+    opacity: 70%;
+}
